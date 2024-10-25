@@ -2,116 +2,89 @@ import React, { useState } from 'react';
 import { Globe2, Info, Languages } from 'lucide-react';
 import { Card, CardContent } from '@/components/ui/card';
 
-// TimelineData array remains the same...
 const timelineData = [
   {
-    year: "Rana Period | राणा काल",
+    year: "2009 BS | २००९",
     title: {
-      en: "Introduction of Public Complaint Boxes",
-      ne: "सार्वजनिक उजुरी पेटिकाको सुरुवात"
+      en: "Administrative Reorganization Committee",
+      ne: "प्रशासकीय पुनर्गठन समिति (बुच कमिशन)"
     },
     description: {
-      en: "Dev Shamsher introduced complaint boxes in public places to hear public grievances directly.",
-      ne: "देव शम्शेरले सार्वजनिक स्थलहरूमा उजुरी पेटिका राखी जनगुनासा आफैले सुनुवाइ गर्न थालेका थिए।"
+      en: "• Civil service appointments through Public Service Commission\n• Classification of civil service and establishment of civil service rules\n• Establishment of 11 ministries and reduction of 15 levels to 4 levels\n• Crucial in preparing initial framework of civil service",
+      ne: "• कर्मचारीको नियुक्ति लोक सेवा आयोगको परामर्शमा गर्ने\n• निजामती सेवाको वर्गीकरण गर्ने र निजामती सेवा नियमावलीको व्यबस्था गर्ने\n• ११वटा मन्त्रालय कायम गर्ने कर्मचारीको १५ तहलाई ४ तहमा कायम गर्ने\n• निजामती सेवाको प्रारम्भिक प्रारुप तयार"
     },
-    category: "complaint"
+    category: "reorganization"
   },
   {
-    year: "1957 | २०१४",
+    year: "2013 BS | २०१३",
     title: {
-      en: "Work Efficiency Committee",
-      ne: "कार्य शीघ्र कारक समिति"
+      en: "Administrative Reorganization Planning Commission",
+      ne: "प्रशासकीय पुनर्गठन योजना आयोग (टंकप्रसाद आचार्य)"
     },
     description: {
-      en: "King Mahendra established 'Quick Action Committee Act 2014' under Major General Yog Bikram Rana.",
-      ne: "राजा महेन्द्रले 'कार्य शीघ्र कारक समिति ऐन, २०१४' जारी गरी मेजर जनरल योग विक्रम राणाको अध्यक्षतामा एक समिति गठन।"
+      en: "• Formation of various services in civil service\n• Creation of civil service laws\n• Strengthening of Public Service Commission\n• Determination of employee salary scales\n• Establishment of administrative training center",
+      ne: "• निजामती सेवामा विभिन सेवाहरुको गठन\n• निजामती सेवा सम्बन्धी कानूनको निर्माण\n• लोक सेवा आयोगको सुदृढीकरण\n• कर्मचारीको तलबमान निर्धारण\n• प्रशासनिक प्रशिक्षण केन्द्रको स्थापना"
     },
-    category: "administration"
+    category: "planning"
   },
   {
-    year: "1961 | २०१८",
+    year: "2025 BS | २०२५",
     title: {
-      en: "Monitoring Teams",
-      ne: "दौडाहा टोली"
+      en: "Administrative Reform Commission",
+      ne: "प्रशासन सुधार आयोग (वेदानन्द झा)"
     },
     description: {
-      en: "King Mahendra deployed inspection teams and established 'Investigation Center' under Crown Prince.",
-      ne: "राजा महेन्द्रले दौडाहा टोली खटाई सेवा वितरणको निगरानी र दरबारमा 'जाँचबुझ केन्द्र' खडा।"
+      en: "• Post classification and officer-oriented organization\n• Implementation of tier system instead of grade system\n• Establishment of Administrative Court\n• Establishment of Staff College\n• Implementation of lateral entry system",
+      ne: "• पद वर्गीकरण र अधिकृतमूलक संगठनको बयबस्था\n• श्रेणीगत सेवा हटाई तहगत व्यबस्था लागू\n• प्रशासकीय अदालतको स्थापना\n• Staff College को स्थापना\n• छड्के प्रवेशको व्यबस्था"
     },
-    category: "monitoring"
+    category: "reform"
   },
   {
-    year: "1975 | २०३२",
+    year: "2032 BS | २०३२",
     title: {
-      en: "District Administration Plan",
-      ne: "जिल्ला प्रशासन योजना"
+      en: "Administrative Reform Commission",
+      ne: "प्रशासन सुधार आयोग (डा. भेषबहादुर थापा)"
     },
     description: {
-      en: "Implementation of 'District Administration Plan 2031' introducing Single Clearing House concept.",
-      ne: "'जिल्ला प्रशासन योजना, २०३१' लागू गरेर Single Clearing House को अवधारणाको थालनी।"
+      en: "• Officer-oriented organizational structure\n• Permanent Administrative Reform Committee\n• Market-based salary determination\n• Institution Coordination Council\n• Anti-corruption measures",
+      ne: "• अधिकृतमूलक संगठनको व्यबस्था\n• स्थायी प्रशासन सुधार समिति\n• बजार भाउको आधारमा तलब निर्धारण\n• संस्थान समन्वय परिषद\n• भ्रष्टाचार निवारण उपायहरु"
     },
-    category: "administration"
+    category: "reform"
   },
   {
-    year: "1999 | २०५६",
+    year: "2048 BS | २०४८",
     title: {
-      en: "Citizen Charter Initiative",
-      ne: "नागरिक बडापत्रको सुरुवात"
+      en: "Administrative Reform Commission",
+      ne: "प्रशासन सुधार आयोग (गिरिजाप्रसाद कोईराला)"
     },
     description: {
-      en: "Introduction of 'Income for Poor, Justice for Helpless' directive and first Citizen Charter.",
-      ne: "'गरिबलाई आय निमुखालाई न्याय' नाम दिएर सार्वजनिक सेवा सुधारको निर्देशिका र पहिलो नागरिक बडापत्र।"
+      en: "• Government work review and allocation\n• Focus on service delivery efficiency\n• Integrated civil service concept\n• Simplification of government procedures\n• Institution management reforms",
+      ne: "• सरकारको कायक्षेत्रको पुनरावलोकन\n• सेवा प्रवाहमा प्रभावकारिता\n• एकीकृत निजामती सेवाको अवधारणा\n• सरकारी कार्यविधि सरलीकरण\n• संस्थान व्यबस्थापन सुधार"
+    },
+    category: "reform"
+  },
+  {
+    year: "2061 BS | २०६१",
+    title: {
+      en: "Governance Reform Roadmap",
+      ne: "शासकीय सुधारको मार्गचित्र"
+    },
+    description: {
+      en: "• Internal capacity building\n• Civil service efficiency enhancement\n• Anti-corruption measures\n• Performance improvement process\n• Inclusive civil service concept",
+      ne: "• आन्तरिक क्षमता अभिबृद्धि\n• निजामती सेवाको दक्षता अभिबृद्धि\n• भ्रष्टाचार घटाउने कार्यक्रम\n• कार्य सम्पादन सुधार\n• समावेशी निजामती सेवा"
     },
     category: "governance"
-  },
-  {
-    year: "2002 | २०५९",
-    title: {
-      en: "Mobile Service Implementation",
-      ne: "घुम्ती सेवाको सुरुवात"
-    },
-    description: {
-      en: "Introduction of 'Mobile Service' during Maoist conflict to deliver services in remote areas.",
-      ne: "माओवादी द्वन्द्वको समयमा 'घुम्ती सेवा' सञ्चालन गरी सेवा वितरणको पहुँच विस्तार।"
-    },
-    category: "service"
-  },
-  {
-    year: "2007 | २०६४",
-    title: {
-      en: "Good Governance Act",
-      ne: "सुशासन ऐन"
-    },
-    description: {
-      en: "Implementation of Good Governance Act 2064 institutionalizing Citizen Charter and public hearings.",
-      ne: "सुशासन ऐन, २०६४ जारी गरी नागरिक बडापत्र, सार्वजनिक सुनुवाइ र क्षतिपूर्तिको प्रावधान।"
-    },
-    category: "governance"
-  },
-  {
-    year: "Present | वर्तमान",
-    title: {
-      en: "Digital Governance",
-      ne: "डिजिटल शासन"
-    },
-    description: {
-      en: "Implementation of e-governance through Nagarik Apps, Mero Kitta, and PSC Mobile App.",
-      ne: "नागरिक एप्स, मेरो कित्ता, लोक सेवा आयोगको मोबाइल एप्स र अनलाइन सेवाहरूको कार्यान्वयन।"
-    },
-    category: "digital"
   }
 ];
 
 const CategoryIcon = ({ category }) => {
-  const iconClass = "w-5 h-5"; // Reduced icon size
+  const iconClass = "w-5 h-5";
   const getColor = () => {
     switch (category) {
-      case 'complaint': return 'text-red-500';
-      case 'administration': return 'text-blue-500';
-      case 'monitoring': return 'text-purple-500';
-      case 'governance': return 'text-green-500';
-      case 'service': return 'text-orange-500';
-      case 'digital': return 'text-cyan-500';
+      case 'reorganization': return 'text-purple-500';
+      case 'planning': return 'text-blue-500';
+      case 'reform': return 'text-green-500';
+      case 'governance': return 'text-orange-500';
       default: return 'text-gray-500';
     }
   };
@@ -128,6 +101,10 @@ const HoverCard = ({ description, title, containerRef, isHovered }) => {
   
   if (!isHovered) return null;
   
+  const formattedDescription = description[isFlipped ? 'ne' : 'en'].split('\n').map((item, index) => (
+    <p key={index} className="text-sm text-gray-700 mb-1">{item}</p>
+  ));
+
   return (
     <div 
       className="ml-2 mt-2"
@@ -150,12 +127,12 @@ const HoverCard = ({ description, title, containerRef, isHovered }) => {
           <div className={`transition-opacity duration-300 ${
             isFlipped ? 'opacity-0' : 'opacity-100'
           }`}>
-            <p className="text-sm text-gray-700">{description.en}</p>
+            {formattedDescription}
           </div>
           <div className={`absolute top-0 left-0 w-full transition-opacity duration-300 ${
             isFlipped ? 'opacity-100' : 'opacity-0'
           }`}>
-            <p className="text-sm text-gray-700">{description.ne}</p>
+            {formattedDescription}
           </div>
         </div>
       </div>
@@ -171,7 +148,6 @@ const TimelineEntry = ({ data, isActive, onClick, index, language }) => {
   const handleMouseEnter = () => setIsHovered(true);
   
   const handleMouseLeave = (e) => {
-    // Check if the mouse is moving to the hover card
     const timelineRect = timelineEntryRef.current?.getBoundingClientRect();
     const hoverRect = hoverContainerRef.current?.getBoundingClientRect();
     
@@ -191,19 +167,15 @@ const TimelineEntry = ({ data, isActive, onClick, index, language }) => {
   return (
     <div className="relative group" ref={timelineEntryRef}>
       <div className="flex items-start gap-3">
-        {/* Timeline connector */}
         <div className="absolute left-4 top-8 bottom-0 w-0.5 bg-gray-200" />
         
-        {/* Year bubble */}
         <div className={`relative z-10 w-8 h-8 rounded-full flex items-center justify-center ${
           isActive ? 'bg-blue-500 text-white' : 'bg-gray-200 text-gray-600'
         } text-sm`}>
           {index + 1}
         </div>
 
-        {/* Content container with flexible width */}
         <div className="flex-1 pb-6">
-          {/* Timeline content - reduced width */}
           <div className="flex flex-col md:flex-row gap-2">
             <div 
               className={`cursor-pointer transition-all duration-300 ${
@@ -224,7 +196,6 @@ const TimelineEntry = ({ data, isActive, onClick, index, language }) => {
               </div>
             </div>
 
-            {/* Hover content */}
             <div 
               onMouseEnter={handleMouseEnter} 
               onMouseLeave={() => setIsHovered(false)}
@@ -243,7 +214,7 @@ const TimelineEntry = ({ data, isActive, onClick, index, language }) => {
   );
 };
 
-function App() {
+function AdminReformsTimeline() {
   const [activeIndex, setActiveIndex] = useState(0);
   const [language, setLanguage] = useState('en');
 
@@ -258,8 +229,8 @@ function App() {
           <div className="flex flex-col md:flex-row justify-between items-start md:items-center gap-4 mb-6">
             <h2 className="text-2xl md:text-3xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-blue-600 to-purple-600">
               {language === 'en' ? 
-                'Public Service Reforms in Nepal' : 
-                'नेपालमा सार्वजनिक सेवा सुधार'
+                'Administrative Reforms in Nepal' : 
+                'नेपालमा प्रशासन सुधारका प्रयासहरु'
               }
             </h2>
             <button 
@@ -291,4 +262,4 @@ function App() {
   );
 }
 
-export default App;
+export default AdminReformsTimeline;
