@@ -140,19 +140,12 @@ category: "reform"
     category: "governance"
   },
  {
-    year: "2009-2061 BS | २००९-२०६१",
+    year: "यहाँबाट पे कमिसनहरूः\n• पे कमिसन 2009 BS | २००९",
     title: {
       en: "Pay Commission",
       ne: "तलब आयोग"
     },
     description: {
-     {
-year: "2009 BS | २००९",
-title: {
-en: "Pay Commission",
-ne: "पे कमिशन"
-},
-description: {
 en: "• Chairman: PSC Member Sri Dev Nath Varma\n• Recommended implementation of new salary scale and allowances",
 ne: "• अध्यक्ष: लोक सेवा आयोगका सदस्य श्री देवनाथ वर्मा\n• तलबमान र भत्ताको नयाँ स्केल लागू गर्नुपर्ने सिफारिश"
 },
@@ -181,9 +174,9 @@ en: "• Chairman: Bhim Lal Rajbhandari\n• Key recommendations:\n   • 2300 c
 ne: "• अध्यक्ष: भीमलाल राजभण्डारी\n• मुख्य सिफारिसहरू:\n   • प्रति व्यक्ति प्रति दिन २३०० क्यालोरी खाद्य पदार्थ आवश्यक पर्ने\n   • एक कर्मचारीको चार सदस्यीय परिवारलाई ३ उपभोक्ता इकाई मानी प्रत्येक उपभोक्ता इकाईलाई क्यालोरी प्राप्त गर्न आवश्यक रकम\n   • न्यूनतम र अधिकतम तलबबीचको अन्तर १:८.५ कायम गर्ने"
 },
 category: "pay-commission"
-}},
-    category: "governance"
-  }
+}
+    
+
 ];
 
 const CategoryIcon = ({ category }) => {
