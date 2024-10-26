@@ -3,18 +3,18 @@ import { Globe2, Info, Languages } from 'lucide-react';
 import { Card, CardContent } from '@/components/ui/card';
 
 const timelineData = [
-  {
-    year: "2009 BS | २००९",
-    title: {
-      en: "Administrative Reorganization Committee",
-      ne: "प्रशासकीय पुनर्गठन समिति (बुच कमिशन)"
-    },
-    description: {
-      en: "• Civil service appointments through Public Service Commission\n• Classification of civil service and establishment of civil service rules\n• Establishment of 11 ministries and reduction of 15 levels to 4 levels\n• Crucial in preparing initial framework of civil service",
-      ne: "• कर्मचारीको नियुक्ति लोक सेवा आयोगको परामर्शमा गर्ने\n• निजामती सेवाको वर्गीकरण गर्ने र निजामती सेवा नियमावलीको व्यबस्था गर्ने\n• ११वटा मन्त्रालय कायम गर्ने कर्मचारीको १५ तहलाई ४ तहमा कायम गर्ने\n• निजामती सेवाको प्रारम्भिक प्रारुप तयार"
-    },
-    category: "reorganization"
-  },
+ {
+year: "2009 BS | २००९",
+title: {
+en: "Administrative Reorganization Committee (Buch Commission)",
+ne: "प्रशासनिक पुनर्गठन समिति (बुच कमिशन)"
+},
+description: {
+en: "• Known as 'Buch Commission'\n• Led by N.M. Buch (sent by Indian Government)\n• Key recommendations:\n   • New appointments only through Public Service Commission consultation\n   • Review of staff benefits through Public Service Commission\n   • Implementation of decentralization system\n   • Formulation of civil service and financial administration laws\n   • Reorganization of ministries and departments, limiting ministries to 11\n   • Conduct examinations for staff management\n   • Provision of staff training\n   • Investigation measures for corruption\n   • Replacement of Cabinet Secretary system with Chief Secretary\n   • Gradual improvement of law and legal procedures\n   • Recruitment of high-ranking officers from India",
+ne: "• बुच कमिशनको नामले चिनिन्छ\n• एन.एम. बुचको नेतृत्वमा गठित (भारत सरकारद्वारा पठाइएको)\n• मुख्य सिफारिसहरू:\n   • लोक सेवा आयोगको परामर्शबाट मात्र नयाँ कर्मचारीको नियुक्ति हुनुपर्ने\n   • कर्मचारीहरूको तलब सुविधाको पुनरावलोकन लोक सेवा आयोगबाट गर्ने\n   • विकेन्द्रीकरणको व्यवस्था अवलम्बन गर्नुपर्ने\n   • निजामती प्रशासन र आर्थिक प्रशासनसम्बन्धी कानूनको तर्जुमा गर्नुपर्ने\n   • मन्त्रालय र विभागको पुनर्गठन गर्ने मन्त्रालयको संख्या ११ वटामा सीमित गर्ने\n   • कर्मचारीको व्यवस्थापन गर्न परीक्षा संचालन गरिनुपर्ने\n   • कर्मचारीलाई तालिमको व्यवस्था गर्ने\n   • भ्रष्टाचारको जाँच गर्ने उपायहरू खोज्नुपर्ने\n   • प्रमुख सचिवको व्यवस्था गरी क्याबिनेट सेक्रेटरीको प्रणाली हटाउनुपर्ने\n   • कानून र कानूनी प्रक्रियाको सुधार क्रमिक रूपमा गरिनुपर्ने\n   • उच्चपदस्थ अधिकृतहरू भारतबाट ल्याउनुपर्ने"
+},
+category: "reform"
+},
   {
     year: "2013 BS | २०१३",
     title: {
