@@ -174,6 +174,66 @@ en: "• Chairman: Bhim Lal Rajbhandari\n• Key recommendations:\n   • 2300 c
 ne: "• अध्यक्ष: भीमलाल राजभण्डारी\n• मुख्य सिफारिसहरू:\n   • प्रति व्यक्ति प्रति दिन २३०० क्यालोरी खाद्य पदार्थ आवश्यक पर्ने\n   • एक कर्मचारीको चार सदस्यीय परिवारलाई ३ उपभोक्ता इकाई मानी प्रत्येक उपभोक्ता इकाईलाई क्यालोरी प्राप्त गर्न आवश्यक रकम\n   • न्यूनतम र अधिकतम तलबबीचको अन्तर १:८.५ कायम गर्ने"
 },
 category: "pay-commission"
+}, 
+{
+year: "2047 BS | २०४७",
+title: {
+en: "Salary and Benefits Reform Commission",
+ne: "तलब सुविधा सुधार आयोग"
+},
+description: {
+en: "• Chairman: Nanda Lal Joshi\n• Key recommendations:\n   • Maintain 1:5 ratio between minimum and maximum salary\n   • Benefits like medical treatment, educational allowance, transportation allowance",
+ne: "• अध्यक्ष: नन्दलाल जोशी\n• मुख्य सिफारिसहरू:\n   • न्यूनतम र अधिकतम तलब बीचको अन्तर १:५ हुनुपर्ने\n   • औषधी उपचार सुविधा, शैक्षिक भत्ता, परिवहन भत्ता जस्ता सुविधाहरू"
+},
+category: "pay-commission"
+},
+{
+year: "2048 BS | २०४८",
+title: {
+en: "Salary Commission",
+ne: "तलब आयोग"
+},
+description: {
+en: "• Chairman: Nyakanta Adhikari\n• Key recommendations:\n   • Minimum salary of employees should be comparable to marginal farmers' income\n   • Provide up to 90% compensation for annual consumer price index increase\n   • Pension not to exceed 67% of last drawn salary\n   • Provide one month's salary as Dashain allowance to retired employees",
+ne: "• अध्यक्ष: न्यकान्त अधिकारी\n• मुख्य सिफारिसहरू:\n   • कर्मचारीको न्यूनतम तलब सीमान्त कृषकहरुको आयको हाराहारीमा पर्ने\n   • प्रत्येक वर्ष उपभोक्ता मूल्यसूचीमा आउने वृद्धिको ९० प्रतिशतसम्म क्षतिपूर्ति दिने\n   • सेवा निवृत्त कर्मचारीले खाईपाई आएको तलबको ६७ प्रतिशतभन्दा बढी निवृत्तिभरण नहुने\n   • सेवा निवृत्त कर्मचारीहरुलाई १ महिनाको रकम दशैं खर्च वापत दिनुपर्ने"
+},
+category: "pay-commission"
+},
+{
+year: "2053 BS | २०५३",
+title: {
+en: "Salary Determination Task Force",
+ne: "तलब निर्धारण कार्यदल"
+},
+description: {
+en: "• Coordinator: Finance Secretary Arjun Mani Acharya\n• Key recommendations:\n   • Maintain 1:6 ratio between entry and final level salary\n   • Set annual salary increment approximately equal to one day's salary\n   • Reduce salary by 10% for employees receiving rations compared to those not receiving",
+ne: "• संयोजक: अर्थ सचिव अर्जुनमणि आचार्य\n• मुख्य सिफारिसहरू:\n   • र स्तरका र अन्तिम स्तरका पदको तलबमानको अन्तर १:६ अनुपात कायम गर्ने\n   • वार्षिक तलब वृद्धिको रकम करिब एक दिनको तलब बराबर गर्ने\n   • राशन पाउने कर्मचारीको तलबमान राशन नपाउने कर्मचारीको भन्दा १०% कम गर्ने"
+},
+category: "pay-commission"
+}, 
+ {
+year: "2055 BS | २०५५",
+title: {
+en: "Salary Commission",
+ne: "तलब आयोग"
+},
+description: {
+en: "• Chairman: Lok Bahadur Shrestha\n• Key recommendations:\n   • Link employee salaries to consumer price index\n   • Maintain 1:5 ratio between minimum and maximum salary\n   • Implement salary compression in both general and technical categories\n   • Set salaries close to those of SAARC country employees",
+ne: "• अध्यक्ष: लोकबहादुर श्रेष्ठ\n• मुख्य सिफारिसहरू:\n   • कर्मचारीको तलबलाई उपभोक्ता मूल्यसूचीसँग आबद्ध गर्नुपर्ने\n   • न्यूनतम र उच्चतम तलबबीचको अन्तर १:५ कायम गर्ने\n   • साधारण र प्राविधिक दुवै श्रेणीहरुमा तलबमान खुम्च्याउने व्यवस्था गर्ने\n   • तलबको निर्धारण सार्क मुलुकका कर्मचारीहरुको तलबको निकट रहने गरी गर्ने"
+},
+category: "pay-commission"
+},
+{
+year: "2061 BS | २०६१",
+title: {
+en: "High-Level Salary Commission",
+ne: "उच्चस्तरीय तलब आयोग"
+},
+description: {
+en: "• Chairman: Former Chief Secretary Dr. Bharat Bahadur Pradhan\n• Key recommendations:\n   • Rotate annual grade increment between junior and senior levels\n   • Provide 2-4 level provisions for positions with no promotion prospects\n   • Benefits including educational allowance, transportation allowance, life insurance\n   • Consider four family members per employee with 4 consumer units when determining salary\n   • Maintain existing 1:5 ratio in employee salary differences",
+ne: "• अध्यक्ष: पूर्व मुख्य सचिव डा. भरत बहादुर प्रधान\n• मुख्य सिफारिसहरू:\n   • वार्षिक ग्रेड वृद्धिलाई कनिष्ठ-ज्येष्ठ बीचको फरक घुमाउने\n   • बढुवाको कुनै गुञ्जाइस नभएका पदहरुमा २ देखि ४ तहसम्मको व्यवस्था\n   • शैक्षिक भत्ता, परिवहन भत्ता, जीवन बीमा आदि सुविधाहरू\n   • कर्मचारी तथा राष्ट्रसेवकको तलबमान निर्धारण गर्दा प्रति परिवार चार सदस्य मान्ने र ४ सदस्यको उपभोक्ता इकाई हुनुपर्ने\n   • कर्मचारीको तलब अन्तर अनुपात १:५ लाई यथावत राख्नुपर्ने"
+},
+category: "pay-commission"
 }
     
 
