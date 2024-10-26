@@ -157,7 +157,7 @@ en: "• Chairman: PSC Member Sri Dev Nath Varma\n• Recommended implementation
 ne: "• अध्यक्ष: लोक सेवा आयोगका सदस्य श्री देवनाथ वर्मा\n• तलबमान र भत्ताको नयाँ स्केल लागू गर्नुपर्ने सिफारिश"
 },
 category: "pay-commission"
-}
+},
 {
 year: "2016 BS | २०१६",
 title: {
@@ -169,11 +169,11 @@ en: "• Chairman: Secretary of Council of Ministers Secretariat\n• Division o
 ne: "• अध्यक्ष: मन्त्रिपरिषद् सचिवालयका सचिव\n• निजामती कर्मचारीहरुलाई प्रशासनिक र कर्मचारीहरु गरी दुई वर्गमा विभाजन\n• कर्मचारीहरुको तल्लो र माथिल्लो तहको बीचको फरक १:१५.५५ हुने गरी तलबमान निर्धारण"
 },
 category: "pay-commission"
-}
+},
 {
 year: "2038 BS | २०३८",
 title: {
-en: "Salary Commission",
+en: "Pay Commission",
 ne: "तलब आयोग"
 },
 description: {
