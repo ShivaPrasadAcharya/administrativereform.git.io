@@ -10,8 +10,8 @@ en: "Administrative Reorganization Committee (Buch Commission)",
 ne: "प्रशासनिक पुनर्गठन समिति (बुच कमिशन)"
 },
 description: {
-en: "• Known as 'Buch Commission'\n• Led by N.M. Buch (sent by Indian Government)\n <span className=\"underline\"> Key recommendations: <*/span>\n   • New appointments only through Public Service Commission consultation\n   • Review of staff benefits through Public Service Commission\n   • Implementation of decentralization system\n   • Formulation of civil service and financial administration laws\n   • Reorganization of ministries and departments, limiting ministries to 11\n   • Conduct examinations for staff management\n   • Provision of staff training\n   • Investigation measures for corruption\n   • Replacement of Cabinet Secretary system with Chief Secretary\n   • Gradual improvement of law and legal procedures\n   • Recruitment of high-ranking officers from India",
-ne: "• बुच कमिशनको नामले चिनिन्छ\n• एन.एम. बुचको नेतृत्वमा गठित (भारत सरकारद्वारा पठाइएको)\n <span className=\"underline\"> मुख्य सिफारिसहरू:</span>\n   • लोक सेवा आयोगको परामर्शबाट मात्र नयाँ कर्मचारीको नियुक्ति हुनुपर्ने\n   • कर्मचारीहरूको तलब सुविधाको पुनरावलोकन लोक सेवा आयोगबाट गर्ने\n   • विकेन्द्रीकरणको व्यवस्था अवलम्बन गर्नुपर्ने\n   • निजामती प्रशासन र आर्थिक प्रशासनसम्बन्धी कानूनको तर्जुमा गर्नुपर्ने\n   • मन्त्रालय र विभागको पुनर्गठन गर्ने मन्त्रालयको संख्या ११ वटामा सीमित गर्ने\n   • कर्मचारीको व्यवस्थापन गर्न परीक्षा संचालन गरिनुपर्ने\n   • कर्मचारीलाई तालिमको व्यवस्था गर्ने\n   • भ्रष्टाचारको जाँच गर्ने उपायहरू खोज्नुपर्ने\n   • प्रमुख सचिवको व्यवस्था गरी क्याबिनेट सेक्रेटरीको प्रणाली हटाउनुपर्ने\n   • कानून र कानूनी प्रक्रियाको सुधार क्रमिक रूपमा गरिनुपर्ने\n   • उच्चपदस्थ अधिकृतहरू भारतबाट ल्याउनुपर्ने"
+en: "• Known as 'Buch Commission'\n• Led by N.M. Buch (sent by Indian Government)\n <span style=\"text-decoration: underline;\">मुख्य सिफारिसहरू</span> Key recommendations: <*/span>\n   • New appointments only through Public Service Commission consultation\n   • Review of staff benefits through Public Service Commission\n   • Implementation of decentralization system\n   • Formulation of civil service and financial administration laws\n   • Reorganization of ministries and departments, limiting ministries to 11\n   • Conduct examinations for staff management\n   • Provision of staff training\n   • Investigation measures for corruption\n   • Replacement of Cabinet Secretary system with Chief Secretary\n   • Gradual improvement of law and legal procedures\n   • Recruitment of high-ranking officers from India",
+ne: "• बुच कमिशनको नामले चिनिन्छ\n• एन.एम. बुचको नेतृत्वमा गठित (भारत सरकारद्वारा पठाइएको)\n <span style=\"text-decoration: underline;\">मुख्य सिफारिसहरू</span> मुख्य सिफारिसहरू:</span>\n   • लोक सेवा आयोगको परामर्शबाट मात्र नयाँ कर्मचारीको नियुक्ति हुनुपर्ने\n   • कर्मचारीहरूको तलब सुविधाको पुनरावलोकन लोक सेवा आयोगबाट गर्ने\n   • विकेन्द्रीकरणको व्यवस्था अवलम्बन गर्नुपर्ने\n   • निजामती प्रशासन र आर्थिक प्रशासनसम्बन्धी कानूनको तर्जुमा गर्नुपर्ने\n   • मन्त्रालय र विभागको पुनर्गठन गर्ने मन्त्रालयको संख्या ११ वटामा सीमित गर्ने\n   • कर्मचारीको व्यवस्थापन गर्न परीक्षा संचालन गरिनुपर्ने\n   • कर्मचारीलाई तालिमको व्यवस्था गर्ने\n   • भ्रष्टाचारको जाँच गर्ने उपायहरू खोज्नुपर्ने\n   • प्रमुख सचिवको व्यवस्था गरी क्याबिनेट सेक्रेटरीको प्रणाली हटाउनुपर्ने\n   • कानून र कानूनी प्रक्रियाको सुधार क्रमिक रूपमा गरिनुपर्ने\n   • उच्चपदस्थ अधिकृतहरू भारतबाट ल्याउनुपर्ने"
 },
 category: "reform"
 },
@@ -137,6 +137,51 @@ category: "reform"
       en: "• Internal capacity building\n• Civil service efficiency enhancement\n• Anti-corruption measures\n• Performance improvement process\n• Inclusive civil service concept",
       ne: "• आन्तरिक क्षमता अभिबृद्धि\n• निजामती सेवाको दक्षता अभिबृद्धि\n• भ्रष्टाचार घटाउने कार्यक्रम\n• कार्य सम्पादन सुधार\n• समावेशी निजामती सेवा"
     },
+    category: "governance"
+  },
+ {
+    year: "2009-2061 BS | २००९-२०६१",
+    title: {
+      en: "Pay Commission",
+      ne: "तलब आयोग"
+    },
+    description: {
+     {
+year: "2009 BS | २००९",
+title: {
+en: "Pay Commission",
+ne: "पे कमिशन"
+},
+description: {
+en: "• Chairman: PSC Member Sri Dev Nath Varma\n• Recommended implementation of new salary scale and allowances",
+ne: "• अध्यक्ष: लोक सेवा आयोगका सदस्य श्री देवनाथ वर्मा\n• तलबमान र भत्ताको नयाँ स्केल लागू गर्नुपर्ने सिफारिश"
+},
+category: "pay-commission"
+}
+{
+year: "2016 BS | २०१६",
+title: {
+en: "Pay Commission",
+ne: "पे कमिशन"
+},
+description: {
+en: "• Chairman: Secretary of Council of Ministers Secretariat\n• Division of civil servants into two categories: administrative and staff\n• Fixed salary scale with ratio of 1:15.55 between lowest and highest levels",
+ne: "• अध्यक्ष: मन्त्रिपरिषद् सचिवालयका सचिव\n• निजामती कर्मचारीहरुलाई प्रशासनिक र कर्मचारीहरु गरी दुई वर्गमा विभाजन\n• कर्मचारीहरुको तल्लो र माथिल्लो तहको बीचको फरक १:१५.५५ हुने गरी तलबमान निर्धारण"
+},
+category: "pay-commission"
+}
+{
+year: "2038 BS | २०३८",
+title: {
+en: "Salary Commission",
+ne: "तलब आयोग"
+},
+description: {
+en: "• Chairman: Bhim Lal Rajbhandari\n• Key recommendations:\n   • 2300 calories of food required per person per day\n   • Calculate required amount for 3 consumer units based on four-member family per employee\n   • Maintain 1:8.5 ratio between minimum and maximum salary",
+ne: "• अध्यक्ष: भीमलाल राजभण्डारी\n• मुख्य सिफारिसहरू:\n   • प्रति व्यक्ति प्रति दिन २३०० क्यालोरी खाद्य पदार्थ आवश्यक पर्ने\n   • एक कर्मचारीको चार सदस्यीय परिवारलाई ३ उपभोक्ता इकाई मानी प्रत्येक उपभोक्ता इकाईलाई क्यालोरी प्राप्त गर्न आवश्यक रकम\n   • न्यूनतम र अधिकतम तलबबीचको अन्तर १:८.५ कायम गर्ने"
+},
+category: "pay-commission"
+}},
     category: "governance"
   }
 ];
