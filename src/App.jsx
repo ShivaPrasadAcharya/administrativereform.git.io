@@ -15,54 +15,56 @@ ne: "• बुच कमिशनको नामले चिनिन्छ\n
 },
 category: "reform"
 },
-  {
-    year: "2013 BS | २०१३",
-    title: {
-      en: "Administrative Reorganization Planning Commission",
-      ne: "प्रशासकीय पुनर्गठन योजना आयोग (टंकप्रसाद आचार्य)"
-    },
-    description: {
-      en: "• Formation of various services in civil service\n• Creation of civil service laws\n• Strengthening of Public Service Commission\n• Determination of employee salary scales\n• Establishment of administrative training center",
-      ne: "• निजामती सेवामा विभिन सेवाहरुको गठन\n• निजामती सेवा सम्बन्धी कानूनको निर्माण\n• लोक सेवा आयोगको सुदृढीकरण\n• कर्मचारीको तलबमान निर्धारण\n• प्रशासनिक प्रशिक्षण केन्द्रको स्थापना"
-    },
-    category: "planning"
-  },
-  {
-    year: "2025 BS | २०२५",
-    title: {
-      en: "Administrative Reform Commission",
-      ne: "प्रशासन सुधार आयोग (वेदानन्द झा)"
-    },
-    description: {
-      en: "• Post classification and officer-oriented organization\n• Implementation of tier system instead of grade system\n• Establishment of Administrative Court\n• Establishment of Staff College\n• Implementation of lateral entry system",
-      ne: "• पद वर्गीकरण र अधिकृतमूलक संगठनको बयबस्था\n• श्रेणीगत सेवा हटाई तहगत व्यबस्था लागू\n• प्रशासकीय अदालतको स्थापना\n• Staff College को स्थापना\n• छड्के प्रवेशको व्यबस्था"
-    },
-    category: "reform"
-  },
-  {
-    year: "2032 BS | २०३२",
-    title: {
-      en: "Administrative Reform Commission",
-      ne: "प्रशासन सुधार आयोग (डा. भेषबहादुर थापा)"
-    },
-    description: {
-      en: "• Officer-oriented organizational structure\n• Permanent Administrative Reform Committee\n• Market-based salary determination\n• Institution Coordination Council\n• Anti-corruption measures",
-      ne: "• अधिकृतमूलक संगठनको व्यबस्था\n• स्थायी प्रशासन सुधार समिति\n• बजार भाउको आधारमा तलब निर्धारण\n• संस्थान समन्वय परिषद\n• भ्रष्टाचार निवारण उपायहरु"
-    },
-    category: "reform"
-  },
-  {
-    year: "2048 BS | २०४८",
-    title: {
-      en: "Administrative Reform Commission",
-      ne: "प्रशासन सुधार आयोग (गिरिजाप्रसाद कोईराला)"
-    },
-    description: {
-      en: "• Government work review and allocation\n• Focus on service delivery efficiency\n• Integrated civil service concept\n• Simplification of government procedures\n• Institution management reforms",
-      ne: "• सरकारको कायक्षेत्रको पुनरावलोकन\n• सेवा प्रवाहमा प्रभावकारिता\n• एकीकृत निजामती सेवाको अवधारणा\n• सरकारी कार्यविधि सरलीकरण\n• संस्थान व्यबस्थापन सुधार"
-    },
-    category: "reform"
-  },
+ {
+year: "2013 BS | २०१३",
+title: {
+en: "Administrative Reorganization Planning Commission (Tanka Prasad Acharya)",
+ne: "प्रशासन पुनर्गठन योजना आयोग (टंकप्रसाद आचार्य)"
+},
+description: {
+en: "• Chairman: Prime Minister Tank Prasad Acharya\n• Key recommendations:\n   • Establish district, village and block systems for administrative decentralization\n   • Form various subject-specific services in civil service\n   • Establish Ministry of Planning Development for plan formulation\n   • Classify current and development budgets\n   • Implement new salary scale\n   • Formulate new laws regarding employee service conditions\n   • Establish administrative training center\n   • Formulate district administration reorganization plan\n   • Initiate five-year planning\n   • Form technical committees in ministries\n   • Emphasize rural development\n   • Reorganize and reduce number of employees\n   • Reorganize ministries",
+ne: "• अध्यक्ष: प्रधानमन्त्री टंक प्रसाद आचार्य\n• मुख्य सिफारिसहरू:\n   • प्रशासनिक विकेन्द्रीकरणको लागि जिल्ला, ग्राम र ब्लकहरूको व्यवस्था गर्ने\n   • निजामती सेवामा विभिन्न विषयगत सेवाहरूको गठन गर्ने\n   • योजना तर्जुमाका लागि योजना विकास मन्त्रालयको स्थापना गर्ने\n   • चालु र विकास बजेटको वर्गीकरण गर्ने\n   • नयाँ तलबमान लागू गर्ने\n   • कर्मचारी सेवा शर्तसम्बन्धी नयाँ कानूनको तर्जुमा गर्ने\n   • प्रशासनिक प्रशिक्षण केन्द्रको स्थापना गर्ने\n   • जिल्ला प्रशासन पुनर्गठन योजना तर्जुमा गर्ने\n   • पञ्चवर्षीय योजनाको शुरुवात गर्ने\n   • मन्त्रालयहरूमा टेक्निकल समिति गठन गर्ने\n   • ग्रामीण विकासमा जोड दिने\n   • कर्मचारीहरूको पुनर्गठन गरी कर्मचारीहरूको संख्या घटाउने\n   • मन्त्रालयहरूको पुनर्गठन गर्ने"
+},
+category: "reform"
+},
+ {
+year: "2025 BS | २०२५",
+title: {
+en: "Administrative Reform Commission (Vedananda Jha)",
+ne: "प्रशासन सुधार आयोग (वेदानन्द झा)"
+},
+description: {
+en: "• Chairman: Vedanand Jha\n• Main Objective: To make administration efficient, fast, streamlined and effective\n• Key recommendations:\n   • Merge institutions with similar nature of work, duties and objectives or operate under single management committee\n   • Make civil servants officer-oriented at central level\n   • Appoint civil service positions only through Public Service Commission recommendation and end political appointments\n   • Reorganize ministries reducing number from 18 to 12\n   • Accept zonal and district administration as local administration to embrace decentralization\n   • Implement position classification system in civil service\n   • Keep personnel administration separate from daily politics\n   • Establish central administration agency to manage civil service\n   • Make administration system hierarchical",
+ne: "• अध्यक्ष: वेदानन्द झा\n• मुख्य उद्देश्य: दक्ष प्रशासन र छिटो, छरितो र कार्यदक्ष बनाउने\n <u> मुख्य सिफारिसहरू: </u>\n   • एकै प्रकृतिको काम, कर्तव्य र उद्देश्य भएका संस्थानहरूलाई एक अर्कामा गाभ्ने वा एउटै संचालक समिति द्वारा संचालन गराउने\n   • केन्द्रीय तहमा निजामती कर्मचारीलाई अधिकृतमूलक बनाउने\n   • निजामती सेवाका पदमा लोक सेवा आयोगको सिफारिसमा मात्र नियुक्ति गर्ने र राजनीतिक नियुक्ति प्रथा बन्द गर्ने\n   • मन्त्रालयको पुनर्गठन गरी मन्त्रालयको संख्या १८ बाट १२ कायम गर्ने\n   • विकेन्द्रीकरणको सिद्धान्तलाई आत्मसात गर्न अञ्चल र जिल्ला प्रशासनलाई स्थानीय प्रशासनको रूपमा लिने\n   • निजामती सेवामा पद वर्गीकरण व्यवस्था लागू गर्ने\n   • कर्मचारी प्रशासनलाई दैनिक राजनीतिबाट अलग राख्ने\n   • निजामती सेवाको प्रशासन संचालन गर्न केन्द्रीय प्रशासन एजेन्सीको व्यवस्था गर्ने\n   • प्रशासनयन्त्रलाई श्रृंखलाबद्ध बनाउने"
+},
+category: "reform"
+},
+
+{
+year: "2032 BS | २०३२",
+title: {
+en: "Administrative Reform Commission",
+ne: "प्रशासन सुधार आयोग"
+},
+description: {
+en: "• Chairman: Bhesh Bahadur Thapa\n• Key recommendations:\n   • Make administration officer-oriented\n   • Initiate and institutionalize program budget\n   • Define duties, responsibilities, accountability and authority of civil service positions\n   • No political appointments except for Zonal Commissioner position\n   • Implement arrangement through Public Service Commission consultation in civil service\n   • Decentralize decision-making process by delegating authority and reducing decision levels\n   • Prioritize establishment of local bodies over central expectations\n   • Reduce number of ministries",
+ne: "• अध्यक्ष: भेष बहादुर थापा\n• मुख्य सिफारिसहरू:\n   • प्रशासनलाई अधिकृतमूलक बनाउने\n   • कार्यक्रम बजेटको थालनी गरी संस्थागत गर्ने\n   • निजामती पदको काम, कर्तव्य, जवाफदेही र अधिकार निश्चित गर्ने\n   • अञ्चलाधीश पद बाहेक अन्य कुनै पदमा राजनीतिक नियुक्ति नगर्ने\n   • लोक सेवा आयोगको परामर्शमा निजामती सेवामा जकेश भएको व्यवस्था गर्ने\n   • अधिकार प्रत्यायोजन गरी निर्णयका तह घटाउँदै निर्णय प्रक्रियामा पनि विकेन्द्रीकरण गर्ने\n   • केन्द्रको अपेक्षा स्थानीय निकायहरूको स्थापनामा बढी प्राथमिकता दिने\n   • मन्त्रालयको संख्या कम गर्ने"
+},
+category: "reform"
+},
+
+{
+year: "2048 BS | २०४८",
+title: {
+en: "Administrative Reform Commission",
+ne: "प्रशासन सुधार आयोग"
+},
+description: {
+en: "• Chairman: Prime Minister Girija Prasad Koirala\n• Main Objective: Make administration capable and effective to fulfill demands of democracy and development\n• Key recommendations:\n   • Reduce number of ministries from 21 to 18\n   • Make Citizen's Digest mandatory\n   • Focus National Planning Commission on resource allocation and monitoring/evaluation of development policies\n   • Change civil service structure with position classification and implement unified civil service system\n   • Implement arrangement in civil service\n   • Abolish Assistant Secretary position",
+ne: "• अध्यक्ष: प्रधानमन्त्री गिरिजा प्रसाद कोइराला\n• मुख्य उद्देश्य: प्रशासनलाई प्रजातन्त्र र विकासका मागहरू पूरा गर्न सक्षम र प्रभावकारी बनाउने\n• मुख्य सिफारिसहरू:\n   • मन्त्रालयको संख्या २१ बाट १८ कायम गर्ने\n   • नागरिक डाइजेस्ट अनिवार्य राख्ने\n   • राष्ट्रिय योजना आयोगलाई स्रोत साधनको बाँडफाँड तथा विकाससम्बन्धी नीतिहरूको कार्यान्वयनको अनुगमन र मूल्यांकन गर्ने कार्यमा केन्द्रित गर्ने\n   • निजामती सेवाको संरचनामा परिवर्तन गरी पद वर्गीकरण गर्दै एकीकृत निजामती सेवाको व्यवस्था गर्ने\n   • निजामती सेवामा जकेश भएको व्यवस्था गर्ने\n   • सहायक सचिवको पद खारेज गर्ने"
+},
+category: "reform"
+},
   {
     year: "2061 BS | २०६१",
     title: {
