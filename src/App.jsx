@@ -174,7 +174,7 @@ en: "• Formed by Nepal Government Cabinet as per directive of the Management C
 ne: "• नेपालको संविधान बमोजिम प्रशासनिक पुनःसंरचनाको निमित्त व्यवस्था समितिको निर्देशन बमोजिम नेपाल सरकार मन्त्रिपरिषदबाट गठन"
 },
 category: "reform"
-}
+},
 
 {
 year: "2061 BS | २०६१",
