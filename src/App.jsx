@@ -1,5 +1,5 @@
-import React, { useState } from 'react';
-import { Globe2, Info, Languages } from 'lucide-react';
+import React, { useState, useRef, useEffect } from 'react';
+import { Globe2, Info, Languages, ChevronDown } from 'lucide-react';
 import { Card, CardContent } from '@/components/ui/card';
 
 const timelineData = [
